@@ -1,4 +1,7 @@
 ### Hi there 👋,it's the little Biscuit's world,a senior student of Jiangxi University of Chinese Medicine.
+
+:libra:天秤座
+
 :student:I'm currently working on Study on syndrome element decision of Electronic medical record of Traditional Chinese medicine.
 
 :pen:I'm currently learning machine learning,CRF(Conditional Random Fields),Python.
@@ -7,11 +10,11 @@
 
 How to reach me:
 
-💬QQ,B站：小饼干少年
+[![standard-readme compliant](https://img.shields.io/badge/QQ-1335411086-red)]
+[![standard-readme compliant](https://img.shields.io/badge/bilibili-59120600-blue)]
 
 :email:1335411086@qq.com
 
-:libra:天秤座
 
 
 <!--
