@@ -8,6 +8,8 @@
 
 :orange_heart:I'm looking for help with how to finish the report what I am woring on.
 
+🧑‍💼:I'm currently working on Thothinfo
+
 How to reach me:
 
 [![standard-readme compliant](https://img.shields.io/badge/QQ-1335411086-red)]
