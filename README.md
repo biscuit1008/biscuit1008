@@ -12,6 +12,7 @@ How to reach me:
 
 [![standard-readme compliant](https://img.shields.io/badge/QQ-1335411086-red)]
 [![standard-readme compliant](https://img.shields.io/badge/bilibili-59120600-blue)]
+[![standard-readme compliant](https://img.shields.io/badge/leetcode-小饼干-yellow)]
 
 :email:1335411086@qq.com
 
